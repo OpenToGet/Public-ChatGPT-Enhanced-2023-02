@@ -6,7 +6,9 @@
 ## API程序
 [OpenAI](https://openai.com/api/)
 ## 使用构建
+后端nodejs启动，前端编译后即可运行
 
+## 正在准备一键部署脚本，适时更新到本仓库
 #### 前端
 - React
 - Framer Motion
